@@ -31,7 +31,7 @@ enemigo_secundario.rect.x = 420
 enemigo_secundario.rect.y = 400
 lista_sprites_activos.add(enemigo_secundario)
 lista_sprites_enemigos.add(enemigo_secundario)
-
+"""esto es un comentario"""
 #paredes
 pared = Pared(250,0,10,450)
 lista_sprites_activos.add(pared)
